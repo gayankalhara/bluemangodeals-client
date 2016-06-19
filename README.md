@@ -1,2 +1,2 @@
-# bluemangodeals-client-ios
-Blue Mango Deals - Client App (iOS)
+# bluemangodeals-client
+Blue Mango Deals - Client App
